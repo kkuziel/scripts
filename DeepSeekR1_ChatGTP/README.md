@@ -29,6 +29,6 @@ Last generated code can be found in following directories:
 - chatGTP -> online https://chatgpt.com/ -> 02.2025
 
 In order to run the code nodejs needs to be installed on you machine.
-Follow the youtube video for instructions and comments.
+Follow the youtube video for instructions and comments. https://www.youtube.com/watch?v=4kh3n2hrJfk
 
 ## THE_END
