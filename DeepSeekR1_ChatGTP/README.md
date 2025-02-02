@@ -17,9 +17,11 @@ I'm software engineer that only needs final code. Does not need explanation and 
 Refactor the code to Typescript. Write all necessary configuration files to run the code. Can be just ts-node.
 I'm software engineer that only needs final code. Does not need explanation and comments.
 
-Refactor this code to class. I'm software engineer that only needs final code. Does not need explanation and comments.
+Refactor this code to class.
+I'm software engineer that only needs final code. Does not need explanation and comments.
 
-Add middleware as external function that will add console log Before and after request.  I'm software engineer that only needs final code. Does not need explanation and comments.
+Add middleware as external function that will add console log Before and after request. 
+I'm software engineer that only needs final code. Does not need explanation and comments.
 
 ## Directory
 
