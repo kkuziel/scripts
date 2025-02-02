@@ -1,0 +1,1 @@
+# Small comparison of capabilities of local deepseek-r1-14b and online ChatGPT
