@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "workspaces",
+			"path": "."
+		},
+		{
+			"name": "project-a-javascript",
+			"path": "../project-a-javascript"
+		},
+		{
+			"name": "package-npm",
+			"path": "../package-npm"
+		},
+		{
+			"name": "project-b-typescript",
+			"path": "../project-b-typescript"
+		},
+		{
+			"path": "../OTHER FOLDER/package-go"
+		}
+	]
+}
