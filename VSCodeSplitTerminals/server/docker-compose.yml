@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  node-server:
+    image: node:20
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: node index.js
